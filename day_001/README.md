@@ -107,6 +107,47 @@ Shell scripting is a powerful method for automating tasks in Unix/Linux environm
 
 ## Key Concepts
 
+### Comments in Bash Scripts
+
+Comments help make your code more readable and maintainable:
+
+```bash
+#!/bin/bash
+
+# This is a single-line comment
+echo "Hello" # Comments can also appear after code
+
+# Multi-line comments can be created using the "here document" syntax:
+<< COMMENT_BLOCK
+This is a multi-line comment.
+It can span multiple lines.
+The shell ignores everything between the markers.
+COMMENT_BLOCK
+
+# Real example:
+<< comment
+This script demonstrates
+different types of
+comments in Bash
+comment
+
+# The code below executes normally
+for i in {1..5}; do
+    echo "number $i"
+done
+```
+
+Output:
+```
+number 1
+number 2
+number 3
+number 4
+number 5
+```
+
+> **Tip**: Good commenting practices include explaining WHY something is done rather than WHAT is done (which should be clear from the code itself).
+
 ### Variables and Data Types
 
 Variables store data that can be referenced and manipulated in a script:
@@ -222,22 +263,3 @@ Now that you've created your first script, try:
 - [GNU Bash Manual](https://www.gnu.org/software/bash/manual/)
 - [Bash Guide for Beginners](https://tldp.org/LDP/Bash-Beginners-Guide/html/)
 - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
-
-
-
-/////
-
-kushkumarkashyap7280@kushlinux:~/.local/share/Trash/files/day_001$ vi basic.sh
-kushkumarkashyap7280@kushlinux:~/.local/share/Trash/files/day_001$ ./basic.sh
-my name is kush
-number is : 2
-number is : 3
-number is : 4
-kushkumarkashyap7280@kushlinux:~/.local/share/Trash/files/day_001$ cat ./basic.sh
-
-
-echo "my name is $name"
-for i in {1..5}
-do
-
-/////
