@@ -20,6 +20,7 @@ This repository contains my learning journey through Bash shell scripting:
 | Day | Topic | Status |
 |-----|-------|--------|
 | [Day 1](./day_001/) | Introduction to Shell Scripting | ✅ |
+| [Day 2](./day_002/) | Variables in Shell Scripting | ✅ |
 
 ## 🔍 Prerequisites
 
