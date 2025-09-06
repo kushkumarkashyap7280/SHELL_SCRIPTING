@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Identity/PNG/BASH_logo-transparent-bg-color.png" alt="Bash Logo" width="300px">
   
-  # <img src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif" width="30"> Shell Scripting Journey
+  # <img src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif" width="30"> [Shell Scripting Journey](https://drive.google.com/file/d/1grW0pm8QenQ-A0rx8wNCEtpcTm2-t978/view?pli=1)
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
   [![Bash](https://img.shields.io/badge/Bash-5.1%2B-brightgreen.svg)](https://www.gnu.org/software/bash/)
@@ -113,6 +113,7 @@ The following topics are covered in this repository:
 | [Day 1](./day_001/) | Introduction to Shell Scripting | ✅ |
 | [Day 2](./day_002/) | Variables in Shell Scripting | ✅ |
 | [Day 3](./day_003/) | Arrays in Shell Scripting | ✅ |
+| [Day 4](./day_004/) | String Manipulation in Shell Scripting | ✅ |
 
 </details>
 
