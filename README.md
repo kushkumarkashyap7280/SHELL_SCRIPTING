@@ -24,9 +24,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l0Iy67eveh48xHQFa/giphy.gif" alt="Terminal Animation" width="600px">
-</div>
 
 ## 🚀 About
 
