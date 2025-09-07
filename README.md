@@ -114,6 +114,7 @@ The following topics are covered in this repository:
 | [Day 2](./day_002/) | Variables in Shell Scripting | ✅ |
 | [Day 3](./day_003/) | Arrays in Shell Scripting | ✅ |
 | [Day 4](./day_004/) | String Manipulation in Shell Scripting | ✅ |
+| [Day 5](./day_005/) | User Interaction & Input | ✅ |
 
 </details>
 
