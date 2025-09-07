@@ -115,6 +115,7 @@ The following topics are covered in this repository:
 | [Day 3](./day_003/) | Arrays in Shell Scripting | ✅ |
 | [Day 4](./day_004/) | String Manipulation in Shell Scripting | ✅ |
 | [Day 5](./day_005/) | User Interaction & Input | ✅ |
+| [Day 6](./day_006/) | Operators in Shell Scripting | ✅ |
 
 </details>
 
@@ -125,7 +126,6 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400px">
   <p>Created with ❤️ by Kush Kumar</p>
   <p>Happy Scripting! 🐧</p>
 </div>
