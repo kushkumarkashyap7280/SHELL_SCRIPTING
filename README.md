@@ -116,6 +116,7 @@ The following topics are covered in this repository:
 | [Day 4](./day_004/) | String Manipulation in Shell Scripting | ✅ |
 | [Day 5](./day_005/) | User Interaction & Input | ✅ |
 | [Day 6](./day_006/) | Operators in Shell Scripting | ✅ |
+| [Day 7](./day_007/) | Conditional Statements | ✅ |
 
 </details>
 
